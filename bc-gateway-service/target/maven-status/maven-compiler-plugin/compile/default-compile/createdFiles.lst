@@ -1,0 +1,6 @@
+bc\bcgatewayservice\Config\AuthFilter.class
+bc\bcgatewayservice\DTO\TokenDto$TokenDtoBuilder.class
+bc\bcgatewayservice\BcGatewayServiceApplication.class
+bc\bcgatewayservice\Config\AuthFilter$Config.class
+bc\bcgatewayservice\Config\WebClientConfig.class
+bc\bcgatewayservice\DTO\TokenDto.class
